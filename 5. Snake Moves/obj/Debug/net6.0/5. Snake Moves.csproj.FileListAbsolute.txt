@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/bin/Debug/net6.0/5. Snake Moves
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/bin/Debug/net6.0/5. Snake Moves.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/bin/Debug/net6.0/5. Snake Moves.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/bin/Debug/net6.0/5. Snake Moves.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/bin/Debug/net6.0/5. Snake Moves.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/refint/5. Snake Moves.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/5. Snake Moves.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/5. Snake Moves/obj/Debug/net6.0/ref/5. Snake Moves.dll

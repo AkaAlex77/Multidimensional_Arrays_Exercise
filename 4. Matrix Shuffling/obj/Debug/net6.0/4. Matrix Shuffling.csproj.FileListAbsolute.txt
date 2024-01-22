@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/bin/Debug/net6.0/4. Matrix Shuffling
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/bin/Debug/net6.0/4. Matrix Shuffling.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/bin/Debug/net6.0/4. Matrix Shuffling.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/bin/Debug/net6.0/4. Matrix Shuffling.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/bin/Debug/net6.0/4. Matrix Shuffling.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/refint/4. Matrix Shuffling.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/4. Matrix Shuffling.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/4. Matrix Shuffling/obj/Debug/net6.0/ref/4. Matrix Shuffling.dll

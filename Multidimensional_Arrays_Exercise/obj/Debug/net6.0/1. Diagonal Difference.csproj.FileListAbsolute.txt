@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/bin/Debug/net6.0/1. Diagonal Difference
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/bin/Debug/net6.0/1. Diagonal Difference.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/bin/Debug/net6.0/1. Diagonal Difference.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/bin/Debug/net6.0/1. Diagonal Difference.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/bin/Debug/net6.0/1. Diagonal Difference.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/refint/1. Diagonal Difference.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/1. Diagonal Difference.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/Multidimensional_Arrays_Exercise/obj/Debug/net6.0/ref/1. Diagonal Difference.dll

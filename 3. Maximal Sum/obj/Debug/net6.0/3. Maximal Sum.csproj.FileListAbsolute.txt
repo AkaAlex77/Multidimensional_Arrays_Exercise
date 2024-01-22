@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/bin/Debug/net6.0/3. Maximal Sum
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/bin/Debug/net6.0/3. Maximal Sum.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/bin/Debug/net6.0/3. Maximal Sum.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/bin/Debug/net6.0/3. Maximal Sum.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/bin/Debug/net6.0/3. Maximal Sum.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/refint/3. Maximal Sum.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/3. Maximal Sum.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/3. Maximal Sum/obj/Debug/net6.0/ref/3. Maximal Sum.dll

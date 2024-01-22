@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{884D2846-9121-49F7-8EDD-DDB332562768}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1._220Diagonal_220Difference PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7. Knight Game/Program.cs">
+    <Files>
+      <File FileName="3. Maximal Sum/Program.cs" Line="7" Column="1" />
+      <File FileName="4. Matrix Shuffling/Program.cs" Line="59" Column="2" />
+      <File FileName="7. Knight Game/Program.cs" Line="49" Column="15" />
+      <File FileName="2. Squares in Matrix/Program.cs" Line="17" Column="1" />
+      <File FileName="6. Jagged Array Manipulator/Program.cs" Line="75" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Multidimensional_Arrays_Exercise" expanded="True">
+            <Node name="1. Diagonal Difference" expanded="True" />
+            <Node name="2. Squares in Matrix" expanded="True" />
+            <Node name="3. Maximal Sum" expanded="True" />
+            <Node name="4. Matrix Shuffling" expanded="True" />
+            <Node name="5. Snake Moves" expanded="True" />
+            <Node name="6. Jagged Array Manipulator" expanded="True" />
+            <Node name="7. Knight Game" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

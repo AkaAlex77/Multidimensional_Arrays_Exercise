@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/bin/Debug/net6.0/6. Jagged Array Manipulator
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/bin/Debug/net6.0/6. Jagged Array Manipulator.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/bin/Debug/net6.0/6. Jagged Array Manipulator.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/bin/Debug/net6.0/6. Jagged Array Manipulator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/bin/Debug/net6.0/6. Jagged Array Manipulator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/refint/6. Jagged Array Manipulator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/6. Jagged Array Manipulator.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Multidimensional_Arrays_Exercise/6. Jagged Array Manipulator/obj/Debug/net6.0/ref/6. Jagged Array Manipulator.dll
